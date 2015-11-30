@@ -24,4 +24,5 @@ ul, li{
 	width:20%;
 	margin:0px 5px;
 	float:left;
+	cursor:pointer;
 }
